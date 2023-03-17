@@ -1,10 +1,5 @@
-<html>
-<head>
-</head>
-<body>
 
-</body>
-
+<img alt_text="imagem" src="./teste.svg">
 
 
 <!--
