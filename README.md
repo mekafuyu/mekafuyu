@@ -1,5 +1,5 @@
 
-<img src="https://github.com/mekafuyu/mekafuyu/blob/main/teste.svg" alt="" width="30px" height="30px" />
+<img src="https://github.com/mekafuyu/mekafuyu/blob/main/teste.svg" alt="" width="500px" height="500px" />
 <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/twitter.svg" alt="Twitter" width="30px" height="30px" />
 
 <!--
