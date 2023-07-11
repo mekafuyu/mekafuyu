@@ -4,7 +4,7 @@
     <linearGradient id="gradient-2-0" gradientUnits="userSpaceOnUse" x1="250" y1="0" x2="250" y2="200" xlink:href="#gradient-2"/>
     <linearGradient id="gradient-2" bx:pinned="true">
       <stop style="stop-color: rgb(0, 3, 101);" offset="0"/>
-      <stop style="stop-color: rgba(0, 8, 248, 0.57);" offset="1"/>
+      <stop style="stop-color: rgba(0, 8, 248, 0.1);" offset="1"/>
     </linearGradient>
   </defs>
   <rect width="500" height="200" style="paint-order: fill; fill: url(#gradient-2-0);"/>
