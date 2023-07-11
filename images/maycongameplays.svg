@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-2-0" gradientUnits="userSpaceOnUse" x1="250" y1="0" x2="250" y2="200" xlink:href="#gradient-2"/>
+    <linearGradient id="gradient-2" bx:pinned="true">
+      <stop style="stop-color: rgb(0, 3, 101);" offset="0"/>
+      <stop style="stop-color: rgba(0, 8, 248, 0.57);" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="200" style="paint-order: fill; fill: url(#gradient-2-0);"/>
+  <text style="fill: rgb(0, 255, 132); font-family: Arial, sans-serif; white-space: pre;" x="103.632" y="100.368">Maycon                                      gameplays</text>
+</svg>
