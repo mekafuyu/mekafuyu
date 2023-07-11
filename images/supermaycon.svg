@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-2-0" gradientUnits="userSpaceOnUse" x1="250" y1="0" x2="250" y2="200" xlink:href="#gradient-2"/>
+    <linearGradient id="gradient-2" bx:pinned="true">
+      <stop style="stop-color: rgb(0, 3, 101);" offset="0"/>
+      <stop style="stop-color: rgba(0, 8, 248, 0.57);" offset="1"/>
+    </linearGradient>
+    <path id="path-0" style="fill: none;" d="M 18.697 158.06 C 29.281 182.645 39.084 182.024 52.35 184.236 C 63.893 184.236 71.44 183.992 79.594 182.633 C 85.826 182.633 90.99 182.633 96.154 182.633 C 104.523 182.633 111.823 182.633 119.124 182.633 C 124.436 182.633 137.286 183.378 137.286 187.441"/>
+  </defs>
+  <rect width="500" height="200" style="paint-order: fill; fill: url(#gradient-2-0);"/>
+  <text style="fill: rgb(0, 255, 132); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="103.632" y="52.825">Maycon  😎 Mekafuyu Gamer😎 mayck_3000</text>
+  <text style="fill: rgb(226, 17, 17); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="53.419" y="132.953" transform="matrix(0.885156, -0.465294, 0.141012, 1.055619, -7.779048, 34.429184)">Tecnologia</text>
+  <text style="fill: rgb(251, 180, 103); font-family: Arial, sans-serif; white-space: pre;" transform="matrix(1.088988, 0, -0.860983, 1.096774, -20.102659, 21.218151)"><tspan x="271.368" y="130.817">Programação</tspan><tspan x="271.368" dy="1em">​</tspan></text>
+  <text style="fill: rgb(188, 255, 112); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="190.705" y="151.116" transform="matrix(0.915914, 0.401374, -0.83285, 0.726832, 103.085724, -77.976776)">Pyython</text>
+  <rect x="101.049" y="26.878" width="322.437" height="19.229" style="fill: none; stroke: rgb(254, 254, 66); stroke-linejoin: round;" transform="matrix(1, 0.000189, 0, 1, -2.757707, 12.547235)"/>
+  <text style="fill: rgb(187, 29, 255); font-family: Arial, sans-serif; white-space: pre;" x="310.363" y="123.338" transform="matrix(1.396154, 0, 0, 1.83871, -200.9431, -101.325249)">Códigos!!</text>
+  <text style="fill: rgb(242, 23, 166); font-family: Arial, sans-serif; white-space: pre;" x="369.658" y="162.868" transform="matrix(5.134687, 0, 0, 1.225806, -1603.740601, -31.624313)">C#</text>
+  <text style="fill: rgb(226, 99, 99); font-family: Arial, sans-serif; white-space: pre;" x="360.043" y="134.556" transform="matrix(0.82922, 0.558924, -2.261427, 1.315544, 352.983215, -275.958038)">C sem #</text>
+  <text style="fill: rgb(0, 255, 119); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="25.107" y="99.834" transform="matrix(0.370843, 1.069414, -1.102891, 2, 126.976524, -171.146637)">NOde js</text>
+  <text style="fill: rgb(0, 12, 116); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(1, -0.268117, 0, 1, 0, 22.094782)"><textPath xlink:href="#path-0">Bibliotecas</textPath></text>
+  <text style="fill: rgb(255, 221, 0); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="399.573" y="93.423" transform="matrix(0.992663, -0.120921, 1.017604, 0.883433, -86.175316, 53.818817)" bx:origin="0.631 0.703">Algoritmos</text>
+  <text style="fill: rgb(163, 168, 80); font-family: Arial, sans-serif; white-space: pre;" x="471.154" y="151.116" transform="matrix(1, 0, 0, 4.903226, -62.5, -544.123657)">Programaação</text>
+</svg>
