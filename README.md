@@ -1,4 +1,5 @@
-<img src="https://github.com/mekafuyu/mekafuyu/blob/main/images/tab.svg" alt=""/>
+<img src="https://github.com/mekafuyu/mekafuyu/blob/main/images/maycongameplays.svg" alt=""/>
+
 
 <!--
 **mekafuyu/mekafuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
